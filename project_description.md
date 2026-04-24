@@ -1,4 +1,4 @@
-Deploying Lightweight Policies with MicroROS for Edge Robotics
+Integrating RL Policies on Microcontrollers with ROS 2 via MicroROS
 
 Reinforcement learning policies have shown great promise for robotics locomotion, far exceeding the limits of what is possible with classic control theory. The spotlight has always been on large policies, meant to run on relatively powerful single-board computers like Raspberry Pi or Jetson Nano. In this talk, we instead focus on smaller policies, optimizing them to run on microcontrollers and package them as MicroROS control nodes. The talk includes our experience deploying lightweight RL policies to an open-source robotic platform, sharing our open-source tools, lessons learned, and practical considerations for the ROS 2 community.
 
